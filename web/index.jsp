@@ -12,5 +12,6 @@
   </head>
   <body>
   $END$
+  <h1>Hello IDEA!!!</h1>
   </body>
 </html>
